@@ -1,0 +1,9 @@
+echo "# TestAutomationGitJenkins" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ngupta57/TestAutomationGitJenkins.git
+git push -u origin master
+_________________________________________
+git remote add origin https://github.com/ngupta57/TestAutomationGitJenkins.git
+git push -u origin master
